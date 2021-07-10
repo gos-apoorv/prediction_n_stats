@@ -1,4 +1,11 @@
 ### Content
+
+#### Task
+ Find the healthy cereal amongst the popular 80 cereals available in the market
+ 
+#### Data
+- [cereals](cereal.csv)
+
 #### Fields in the dataset:
 
 Name: Name of cereal
